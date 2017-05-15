@@ -31,4 +31,4 @@ Esperamos que todos os participantes sigam estas regras em todos os locais da co
 
 > Crédito e fonte original: [http://confcodeofconduct.com/](http://confcodeofconduct.com/) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).  
 > Por favor, ajude a traduzir ou melhorar: [http://github.com/leftlogic/confcodeofconduct.com](http://github.com/leftlogic/confcodeofconduct.com).  
-> Esta obra está licenciada sob [https://creativecommons.org/licenses/by/3.0/deed.en_US](Creative Commons Attribution 3.0 Unported License).
+> Esta obra está licenciada sob [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US)
